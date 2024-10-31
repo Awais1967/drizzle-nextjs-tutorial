@@ -45,7 +45,7 @@ export async function getPosts(
 			createdAt: "2024-06-23 16:05:26.954952",
 			userId: 1,
 			title: "mock title",
-			shortDescription: "mock short description",
+			shortDescription: "mock descriptions are cool",
 			content: "mock content",
 			categoryId: 1,
 		},
